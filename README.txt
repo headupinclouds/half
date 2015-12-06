@@ -1,3 +1,5 @@
+original: http://half.sourceforge.net
+
 HALF-PRECISION FLOATING POINT LIBRARY (Version 1.11.0)
 ------------------------------------------------------
 
